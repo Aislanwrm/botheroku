@@ -1,4 +1,5 @@
 <?php
+echo "Teste Heroku";
 include 'Functions/Funcoes.php';
 //include 'Functions/conexaobd.php';
 //gravaobj(['fgff','dfdfd','dfdfd']);
